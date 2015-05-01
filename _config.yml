@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Science, Engineering, Life
 subtitle:
 description:
-author: John Doe
+author: chih.yang@outlook.com
 language:
 timezone:
 
@@ -67,4 +67,6 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/zy1980/zy1980.github.io.git
+  branch: master

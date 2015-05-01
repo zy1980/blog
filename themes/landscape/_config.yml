@@ -1,7 +1,9 @@
 # Header
 menu:
   Home: /
+  About Me: https://www.linkedin.com/in/zhiyang
   Archives: /archives
+  Old Stuff: http://chihyangscience.github.io
 rss: /atom.xml
 
 # Content
